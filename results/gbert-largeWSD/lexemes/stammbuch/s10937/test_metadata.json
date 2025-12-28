@@ -1,0 +1,15 @@
+{
+  "lexeme": "stammbuch",
+  "synset": "s10937",
+  "consecutive_pvalue": 0.256,
+  "observed_magnitude": 7.029271692511478,
+  "n_permutations": 1000,
+  "alpha": 0.05,
+  "window_size": 1,
+  "excluded_timespans": [
+    "1995-2014",
+    "2006-2023"
+  ],
+  "n_samples": 221,
+  "n_timespans": 12
+}

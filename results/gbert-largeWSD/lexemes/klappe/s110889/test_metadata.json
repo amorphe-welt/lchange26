@@ -1,0 +1,15 @@
+{
+  "lexeme": "klappe",
+  "synset": "s110889",
+  "consecutive_pvalue": 0.013,
+  "observed_magnitude": 21.344041667854082,
+  "n_permutations": 1000,
+  "alpha": 0.05,
+  "window_size": 1,
+  "excluded_timespans": [
+    "1995-2014",
+    "2006-2023"
+  ],
+  "n_samples": 14,
+  "n_timespans": 6
+}

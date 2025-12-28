@@ -1,0 +1,4 @@
+event_id,transition_from,transition_to,drift_magnitude,p_value,impact_duration,affected_timespans,event_type
+0,1901-1910,1911-1920,4.9370036559543635,0.031,1,1911-1920,consecutive
+1,1911-1920,1921-1930,4.932819980314375,0.04,1,1921-1930,consecutive
+2,1941-1950,1951-1960,7.614563743371981,0.043,1,1951-1960,consecutive

@@ -1,0 +1,15 @@
+{
+  "lexeme": "diarium",
+  "synset": "s29492",
+  "consecutive_pvalue": 0.838,
+  "observed_magnitude": 9.488414036961254,
+  "n_permutations": 1000,
+  "alpha": 0.05,
+  "window_size": 1,
+  "excluded_timespans": [
+    "1995-2014",
+    "2006-2023"
+  ],
+  "n_samples": 21,
+  "n_timespans": 5
+}

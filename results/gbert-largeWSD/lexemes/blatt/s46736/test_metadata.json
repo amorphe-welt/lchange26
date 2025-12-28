@@ -1,0 +1,15 @@
+{
+  "lexeme": "blatt",
+  "synset": "s46736",
+  "consecutive_pvalue": 0.021,
+  "observed_magnitude": 5.991895387340559,
+  "n_permutations": 1000,
+  "alpha": 0.05,
+  "window_size": 1,
+  "excluded_timespans": [
+    "1995-2014",
+    "2006-2023"
+  ],
+  "n_samples": 281,
+  "n_timespans": 12
+}

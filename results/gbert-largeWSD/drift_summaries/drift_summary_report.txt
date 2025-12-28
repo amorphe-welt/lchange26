@@ -1,0 +1,176 @@
+================================================================================
+DRIFT ANALYSIS SUMMARY REPORT
+================================================================================
+
+OVERALL STATISTICS
+--------------------------------------------------------------------------------
+Total lexemes analyzed: 26
+Total synsets analyzed: 82
+Synsets with any significant drift: 62
+Synsets with pairwise tests: 62
+Synsets with consecutive tests: 82
+
+TOP 20 SYNSETS BY SIGNIFICANCE
+--------------------------------------------------------------------------------
+
+bank / s25245
+  Significant pairs: 51
+  Drift events: 6
+  Max impact duration: 2
+  Min p-value: 0.000000
+  Max drift magnitude: 3.7165
+  Path: results/gbert-largeWSD/lexemes/bank/s25245
+
+universität / s24528
+  Significant pairs: 43
+  Drift events: 6
+  Max impact duration: 10
+  Min p-value: 0.000000
+  Max drift magnitude: 6.5431
+  Path: results/gbert-largeWSD/lexemes/universität/s24528
+
+klappe / s25993
+  Significant pairs: 42
+  Drift events: 5
+  Max impact duration: 6
+  Min p-value: 0.000000
+  Max drift magnitude: 7.2932
+  Path: results/gbert-largeWSD/lexemes/klappe/s25993
+
+klima / s41205
+  Significant pairs: 29
+  Drift events: 18
+  Max impact duration: 9
+  Min p-value: 0.000000
+  Max drift magnitude: 10.3725
+  Path: results/gbert-largeWSD/lexemes/klima/s41205
+
+virus / s50968
+  Significant pairs: 32
+  Drift events: 10
+  Max impact duration: 8
+  Min p-value: 0.000000
+  Max drift magnitude: 3.6946
+  Path: results/gbert-largeWSD/lexemes/virus/s50968
+
+diarium / s10919
+  Significant pairs: 33
+  Drift events: 6
+  Max impact duration: 11
+  Min p-value: 0.000000
+  Max drift magnitude: 12.2967
+  Path: results/gbert-largeWSD/lexemes/diarium/s10919
+
+tor / s10304
+  Significant pairs: 33
+  Drift events: 3
+  Max impact duration: 3
+  Min p-value: 0.000000
+  Max drift magnitude: 6.0108
+  Path: results/gbert-largeWSD/lexemes/tor/s10304
+
+zeitung / s29644
+  Significant pairs: 31
+  Drift events: 5
+  Max impact duration: 5
+  Min p-value: 0.000000
+  Max drift magnitude: 11.9748
+  Path: results/gbert-largeWSD/lexemes/zeitung/s29644
+
+pinsel / s8330
+  Significant pairs: 29
+  Drift events: 6
+  Max impact duration: 6
+  Min p-value: 0.000000
+  Max drift magnitude: 7.8322
+  Path: results/gbert-largeWSD/lexemes/pinsel/s8330
+
+richtung / s41895
+  Significant pairs: 24
+  Drift events: 13
+  Max impact duration: 8
+  Min p-value: 0.000000
+  Max drift magnitude: 10.2619
+  Path: results/gbert-largeWSD/lexemes/richtung/s41895
+
+fuß / s26149
+  Significant pairs: 22
+  Drift events: 15
+  Max impact duration: 10
+  Min p-value: 0.000000
+  Max drift magnitude: 7.8424
+  Path: results/gbert-largeWSD/lexemes/fuß/s26149
+
+atmosphäre / s42868
+  Significant pairs: 23
+  Drift events: 8
+  Max impact duration: 7
+  Min p-value: 0.000000
+  Max drift magnitude: 7.8290
+  Path: results/gbert-largeWSD/lexemes/atmosphäre/s42868
+
+kasse / s25445
+  Significant pairs: 24
+  Drift events: 6
+  Max impact duration: 5
+  Min p-value: 0.000000
+  Max drift magnitude: 10.8184
+  Path: results/gbert-largeWSD/lexemes/kasse/s25445
+
+stammbuch / s10937
+  Significant pairs: 25
+  Drift events: 4
+  Max impact duration: 3
+  Min p-value: 0.000000
+  Max drift magnitude: 11.6244
+  Path: results/gbert-largeWSD/lexemes/stammbuch/s10937
+
+blatt / s46736
+  Significant pairs: 23
+  Drift events: 6
+  Max impact duration: 4
+  Min p-value: 0.000000
+  Max drift magnitude: 11.4776
+  Path: results/gbert-largeWSD/lexemes/blatt/s46736
+
+blatt / s11270
+  Significant pairs: 22
+  Drift events: 4
+  Max impact duration: 3
+  Min p-value: 0.000000
+  Max drift magnitude: 9.4175
+  Path: results/gbert-largeWSD/lexemes/blatt/s11270
+
+block / s9544
+  Significant pairs: 17
+  Drift events: 12
+  Max impact duration: 7
+  Min p-value: 0.000000
+  Max drift magnitude: 22.9516
+  Path: results/gbert-largeWSD/lexemes/block/s9544
+
+flügel / s23151
+  Significant pairs: 15
+  Drift events: 15
+  Max impact duration: 11
+  Min p-value: 0.001000
+  Max drift magnitude: 10.5323
+  Path: results/gbert-largeWSD/lexemes/flügel/s23151
+
+block / s107180
+  Significant pairs: 15
+  Drift events: 15
+  Max impact duration: 10
+  Min p-value: 0.002000
+  Max drift magnitude: 10.7352
+  Path: results/gbert-largeWSD/lexemes/block/s107180
+
+kurs / s13438
+  Significant pairs: 21
+  Drift events: 4
+  Max impact duration: 2
+  Min p-value: 0.000000
+  Max drift magnitude: 8.0959
+  Path: results/gbert-largeWSD/lexemes/kurs/s13438
+
+================================================================================

@@ -1,0 +1,15 @@
+{
+  "lexeme": "kurs",
+  "synset": "s41895",
+  "consecutive_pvalue": 0.668,
+  "observed_magnitude": 6.213939396666819,
+  "n_permutations": 1000,
+  "alpha": 0.05,
+  "window_size": 1,
+  "excluded_timespans": [
+    "1995-2014",
+    "2006-2023"
+  ],
+  "n_samples": 159,
+  "n_timespans": 12
+}

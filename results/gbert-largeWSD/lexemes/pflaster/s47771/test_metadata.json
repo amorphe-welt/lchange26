@@ -1,0 +1,15 @@
+{
+  "lexeme": "pflaster",
+  "synset": "s47771",
+  "consecutive_pvalue": 0.24,
+  "observed_magnitude": 3.6675554421208303,
+  "n_permutations": 1000,
+  "alpha": 0.05,
+  "window_size": 1,
+  "excluded_timespans": [
+    "1995-2014",
+    "2006-2023"
+  ],
+  "n_samples": 532,
+  "n_timespans": 12
+}
