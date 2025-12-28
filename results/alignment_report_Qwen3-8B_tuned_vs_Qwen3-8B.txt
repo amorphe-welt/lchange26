@@ -1,0 +1,20 @@
+NORMALIZED ALIGNMENT REPORT: Qwen3-8B_tuned vs Qwen3-8B
+Values represent Standard Deviations from the Mean (Z-Scores).
+===============================================================================================
+LEXEME          ID       DEF                                 Qwen3-8B_tuned(Z) Qwen3-8B(Z)  ΔZ      
+-----------------------------------------------------------------------------------------------------
+flügel          s26446   Flügel, Schwinge - Biologie, Zool   -0.27        -0.01        0.26    
+stammbuch       s10937   Gästebuch, Stammbuch - Ein Buch,    -0.23        -0.42        0.19    
+schnabel        s26449   Schnabel - n. Zoologie: das Mundw   -0.25        -0.40        0.15    
+kasse           s22803   Kassenschalter - Schalter zur Abw   -0.11        -0.22        0.11    
+pflaster        s7930    Pflaster - Medizin: Klebeband als   0.04         -0.07        0.11    
+universität     s9426    Universitätsgebäude - kurz, synon   0.07         -0.01        0.08    
+kasse           s74827   vorhandene Geldmittel               0.29         0.22         0.07    
+tor             s33154   Tor, Torerfolg - beim Ballsport     -0.05        -0.10        0.06    
+blatt           s46736   Pflanzenblatt - ein meist grünes,   0.58         0.62         0.05    
+gesichtsmaske   s63142   Gesichtsmaske, Larve                -0.07        -0.03        0.05    
+bank            s25245   Geldinstitut für Finanzdienstleis   -0.42        -0.38        0.04    
+klima           s41205   N/A                                 -0.22        -0.19        0.03    
+bank            s9650    Bankgebäude, Bankhaus - Geschäfts   0.12         0.09         0.03    
+zeitung         s10649   Blatt, Gazette, Zeitung - regelmä   -0.37        -0.34        0.03    
+universität     s24528   Uni, Universität - Hochschule, n.   -0.47        -0.44        0.03    

@@ -1,0 +1,20 @@
+NORMALIZED ALIGNMENT REPORT: Qwen3-4B vs Qwen3-8B
+Values represent Standard Deviations from the Mean (Z-Scores).
+===============================================================================================
+LEXEME          ID       DEF                                 Qwen3-4B(Z)  Qwen3-8B(Z)  ΔZ      
+------------------------------------------------------------------------------------------------
+pflaster        s7930    Pflaster - Medizin: Klebeband als   0.37         -0.08        0.45    
+decke           s10206   Decke (Gebäudeteil) - obere Begre   0.60         0.16         0.44    
+flügel          s26446   Flügel, Schwinge - Biologie, Zool   -0.32        -0.02        0.30    
+blatt           s11270   Papierblatt - ein beschnittenes S   -0.40        -0.16        0.25    
+kasse           s74827   vorhandene Geldmittel               0.43         0.21         0.22    
+kasse           s25445   Krankenkasse - Träger der Kranken   -0.34        -0.17        0.17    
+kartenspiel     s11135   Kartenspiel - ein Gesellschaftssp   -0.11        -0.27        0.15    
+bank            s9650    Bankgebäude, Bankhaus - Geschäfts   -0.06        0.08         0.14    
+virus           s50968   Erreger, Krankheitserreger - Medi   -0.02        -0.15        0.13    
+klappe          s6029    Klappe (Deckel, Verschluss) - Vor   0.39         0.27         0.13    
+bank            s25245   Geldinstitut für Finanzdienstleis   -0.28        -0.39        0.11    
+fuß             s110427  Fuß (Stelle)                        -0.25        -0.15        0.10    
+virus           s64010   Computervirus, Computerwurm, Viru   6.82         6.91         0.10    
+schnabel        s26449   Schnabel - n. Zoologie: das Mundw   -0.51        -0.41        0.09    
+blatt           s46736   Pflanzenblatt - ein meist grünes,   0.70         0.61         0.09    

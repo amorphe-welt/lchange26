@@ -1,0 +1,20 @@
+NORMALIZED ALIGNMENT REPORT: gBERT-large vs Qwen3-8B
+Values represent Standard Deviations from the Mean (Z-Scores).
+===============================================================================================
+LEXEME          ID       DEF                                 gBERT-large(Z) Qwen3-8B(Z)  ΔZ      
+--------------------------------------------------------------------------------------------------
+atmosphäre      s33676   Druckeinheit - Physik: alte Einhe   3.39         -0.21        3.61    
+virus           s64010   Computervirus, Computerwurm, Viru   3.66         6.92         3.27    
+flügel          s73683   Flügel (Mannschaft) - Sport: ein    1.69         -0.10        1.79    
+flügel          s11625   Flügel (Klavier) - Musik, Musikin   1.64         0.05         1.59    
+universität     s9426    Universitätsgebäude - kurz, synon   1.57         -0.00        1.58    
+gesichtsmaske   s63142   Gesichtsmaske, Larve                1.53         -0.03        1.56    
+pflaster        s7930    Pflaster - Medizin: Klebeband als   1.19         -0.07        1.26    
+schnabel        s25993   Schnabel, Maul, Fresse - umgangss   -0.21        0.87         1.08    
+virus           s50968   Erreger, Krankheitserreger - Medi   -1.11        -0.14        0.97    
+kurs            s30016   Kursus - eine Lehrveranstaltung,    -1.01        -0.08        0.93    
+bank            s25245   Geldinstitut für Finanzdienstleis   -1.18        -0.37        0.81    
+blatt           s11270   Papierblatt - ein beschnittenes S   -0.95        -0.14        0.80    
+blatt           s46736   Pflanzenblatt - ein meist grünes,   -0.17        0.63         0.79    
+kasse           s25445   Krankenkasse - Träger der Kranken   0.59         -0.15        0.74    
+decke           s10206   Decke (Gebäudeteil) - obere Begre   -0.55        0.17         0.73    
