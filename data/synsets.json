@@ -1,0 +1,146 @@
+[
+{"type": "atmosphäre", "synsets": [
+                        {"id": "s42158", "definition": "Atmosphäre - Atmosphäre einer Umgebung; Umgebung"},
+                        {"id": "s42868", "definition": "Erdatmosphäre, Lufthülle - Astronomie: Gashülle eines Himmelskörpers; Atmosphäre, gasförmige Hülle der Erde"},
+                        {"id": "s14251", "definition": "Klima, Stimmungslage - wahrnehmbare Stimmung an einem Ort; Art des Verhältnisses von Personen untereinander in einer Gruppe"},
+                        {"id": "s33676", "definition": "Druckeinheit - Physik: alte Einheit des physikalischen Drucks"}
+                    ]
+},
+{"type": "bank", "synsets": [
+                        {"id": "s107676", "definition": "Anhäufung - Austernbank; Muschelbank; Korallenbank"},
+                        {"id": "s9650", "definition": "Bankgebäude, Bankhaus - Geschäftsbau, Geschäftsgebäude, Geschäftshaus"},
+                        {"id": "s25245", "definition": "Bankinstitut, Geldhaus, Geldinstitut, Kasse - Geldinstitut für Finanzdienstleistungen; ein Institut"},
+                        {"id": "s69017", "definition": "Bankhalter (Spieler) - Casino, Kasino, Spielbank, Spielcasino, Spielkasino"},
+                        {"id": "s6399", "definition": "Sitzbank - Sitz- oder Ablagegelegenheit für mehrere Personen oder Dinge nebeneinander"}
+                    ]
+},
+{"type": "blatt", "synsets": [
+                        {"id": "s46736", "definition": "Pflanzenblatt - ein meist grünes, flächiges Organ von Pflanzen"},
+                        {"id": "s11270", "definition": "Papierblatt - ein beschnittenes Stück Papier oder Folie"},
+                        {"id": "s72163", "definition": "Rohrblatt"},
+                        {"id": "s85055", "definition": "Ruderblatt"},
+                        {"id": "s107682", "definition": "Blatt - Werkzeugteil - Hyponyms: Sensenblatt; Sägeblatt"},
+                        {"id": "s10649", "definition": "Gazette, Zeitung - regelmäßig täglich oder wöchentlich erscheinendes ungeheftetes Druckwerk"},
+                        {"id": "s25671", "definition": "Kartenblatt, Kartenspiel - Gesamtheit aller zu einem Spiel gehörigen Karten; die Karten, die man beim Kartenspiel auf, in der Hand hält"},
+                        {"id": "s33132", "definition": "Blatt - ohne Plural: Zahlklassifikator für Papier und ähnlich geformte Gegenstände"}
+                    ]
+},
+{"type": "block", "synsets": [
+                        {"id": "s9544", "definition": "Wohnblock - Häuserkomplex, der nicht von Straßen durchschnitten wird"},
+                        {"id": "s11307", "definition": "Papierblock - ein Stapel Papierblätter, die mittels Klebung aufeinander liegen und nach Bedarf abgerissen werden können."},
+                        {"id": "s107180", "definition": "Block (Zusammenschluss)"},
+                        {"id": "s33659", "definition": "Block (Speicher) - eine begrenzte Anzahl von informationstragenden Einheiten \nHypernyms: Datenblock"},
+                        {"id": "s15791", "definition": "Block - großes Stück eines Materials, meist quaderförmig"}
+                    ]
+},
+{"type": "buch", "synsets": [
+                        {"id": "s10937", "definition": "Gästebuch, Stammbuch - Ein Buch, ausgelegt für Besucher eines bestimmten Ortes, mit leeren Seiten, in dem Kommentare und/oder Namen hinterlassen werden können."},
+                        {"id": "s107850", "definition": "Buch - Hyponyms: Protokollbuch; Stammbuch"},
+                        {"id": "s10919", "definition": "Geschäftsbuch - Buch führen; Hyponyms: Kladde; Tagebuch; Hauptbuch"},
+                        {"id": "s107685", "definition": "Buch (Wettliste)"},
+                        {"id": "s10855", "definition": "Buch (Druckwerk) - n. fest gebundenes Druckwerk; literarische Publikation in Buchform"}
+                    ]
+},
+{"type": "decke", "synsets": [
+                        {"id": "s10206", "definition": "Decke (Gebäudeteil) - obere Begrenzung eines Zimmers"},
+                        {"id": "s10919", "definition": "Decke (Bedeckung) - Geschlossene Oberfläche"},
+                        {"id": "s7419", "definition": "Decke (Textilie) - großes, wärmendes Stück Stoff"}
+                    ]
+},
+{"type": "flügel", "synsets": [
+                        {"id": "s73727", "definition": "Flügel (Formen) - ein Teil (oft eine Hälfte) symmetrischer oder symmetrisch angeordneter Formen, Gebilde, Körper"},
+                        {"id": "s73683", "definition": "Flügel (Mannschaft) - Sport: ein Teil einer spielenden Mannschaft bei verschiedenen Mannschaftssportarten (unter Anderem im Fußball, Handball, Eishockey)"},
+                        {"id": "s11625", "definition": "Flügel (Klavier) - Musik, Musikinstrumentenbau: ein großes Klavier, besonders für Konzerte, dessen Deckel meist geöffnet ist, wenn man darauf spielt"},
+                        {"id": "s26446", "definition": "Flügel, Schwinge - Biologie, Zoologie: ein Körperteil eines Tieres (wie Insekt, Vogel), der funktional zum Fliegen befähigen kann"},
+                        {"id": "s23151", "definition": "Parteiflügel - Politik: ein Teil einer politischen Partei oder einer Vereinigung (linker, rechter Flügel)"},
+                        {"id": "s9697", "definition": "Seitenflügel - Architektur, Bauwesen: Gebäudeteil; Teilgebäude eines größeren Gebäudekomplexes (wie zum Beispiel eines Schlosses)"},
+                        {"id": "s12102", "definition": "Flügel, Rotorblatt - Technik: eine flügelartige Verlängerung an einem Bauteil; Flugwesen, Raumfahrt, Flugzeugbau: ein Teil eines Fluggerätes, eines Raumfahrzeuges"}
+                    ]
+},
+{"type": "fuß", "synsets": [
+                        {"id": "s26149", "definition": "Fuß (Körperteil) - ein paariger Körperteil beim Menschen und höher entwickelten Spezies, unterer Teil des Beines"},
+                        {"id": "s33599", "definition": "Fuß (Einheit) -  nur Singular: veraltete Maßeinheit"},
+                        {"id": "s110427", "definition": "Fuß (Stelle)"},
+                        {"id": "s6390", "definition": "Fuß (Stützkonstruktion) - unterer tragender Teil von aufragenden, aufrecht stehenden Dingen, Gegenständen"},
+                        {"id": "sxxxxx", "definition": "Metrum, Versfuß, Versmaß - Linguistik, Literaturwissenschaft: Silbenmaß, Versmaß"}
+                    ]
+},
+{"type": "klappe", "synsets": [
+                        {"id": "s6029", "definition": "Klappe (Deckel, Verschluss) - Vorrichtung, die an einer Seite befestigt ist, leicht bewegt werden kann und eine Öffnung verschließt"},
+                        {"id": "s110889", "definition": "Klappe (Bett)"},
+                        {"id": "s25993", "definition": "Fresse, Klappe, Maul, Mund, Schnauze - umgangssprachlich, abwertend: der menschliche Mund; Umgangssprachlich: der Mund; salopp: Mund; derb: Mund; Anatomie: Öffnung im unteren Teil des menschlichen Gesichtes (beim Tier: Maul, Schnabel), hauptsächlich zur Nahrungsaufnahme und zur Lautbildung benutzt; Mund"}
+                    ]
+},
+{"type": "kurs", "synsets": [
+                        {"id": "s41951", "definition": "Rennkurs, Rennstrecke - Piste, Parcours, Rennpiste"},
+                        {"id": "s30016", "definition": "Kursus - eine Lehrveranstaltung, eine Bildungsveranstaltung, ein Abschnitt oder Modul einer solchen Veranstaltung"},
+                        {"id": "s41895", "definition": "Kursrichtung, Richtung - das Gerichtetsein, Wendung auf ein Ziel zu"},
+                        {"id": "s13438", "definition": "Kurs (Wert) - finanzmath.: Handelspreis eines Wertpapieres; finanzmath.: Wertverhältnis von Währungen; finanzmath.: Wert eines Zahlungsmittels in einer Transaktion"}
+                    ]
+},
+{"type": "maske", "synsets": [
+                        {"id": "s106689", "definition": "Maske (Verdeckung) - Verdeckung, Verhüllung"},
+                        {"id": "s106691", "definition": "Maske (Raum) - Raum, Räumlichkeit"},
+                        {"id": "s63143", "definition": "Gesichtsmaske, Maske (Kosmetikartikel) - zur Straffung der Haut auf das Gesicht aufgetragene Kosmetik"},
+                        {"id": "s7282", "definition": "Maske - Gesichtsbedeckung"},
+                        {"id": "s106690", "definition": "Maske (Formular) - Eingabemaske; Suchmaske"}
+                    ]
+},
+{"type": "pflaster", "synsets": [
+                        {"id": "s47771", "definition": "Pflasterung, Straßenpflaster - aus vielen einzelnen Steinen bestehender Straßenbelag"},
+                        {"id": "s7930", "definition": "Pflaster - Medizin: Klebeband als Heftpflaster, zur Fixierung von beispielsweise Wundauflagen, Schläuchen, Venenverweilkanülen; Medizin: Klebeband als selbstklebende Folie in Kombination mit einer Wundauflage (bei äußerlicher Verletzung am Körper); Medizin: Klebeband als Medium zur transdermalen Applikation von Wirkstoffen"}
+                    ]
+},
+{"type": "schimmel", "synsets": [
+                        {"id": "s50922", "definition": "Schimmel - weißes Pferd"},
+                        {"id": "s47572", "definition": "Schimmel - aus einem Pilz bestehender Überzug auf organischen Substanzen"}
+                    ]
+},
+{"type": "tor", "synsets": [
+                        {"id": "s33154", "definition": "Tor, Torerfolg - beim Ballsport"},
+                        {"id": "s10304", "definition": "Pforte, Tor - eine Tür mit größeren Dimensionen"},
+                        {"id": "s37889", "definition": "Einfaltspinsel, Gimpel, Pinsel, Tor - eine Person mit unvernünftigem Verhalten"},
+                        {"id": "s10313", "definition": "Tor - Trefferzone bei vielen Ballspielarten"}
+                    ]
+},
+{"type": "universität", "synsets": [
+                        {"id": "s75975", "definition": "Universität (Gruppe) - zusammenfassend für den Lehrkörper, die Studentenschaft und die Beschäftigten von einer in Fakultäten gegliederten, höchsten wissenschaftlichen Bildungsstätte"},
+                        {"id": "s24528", "definition": "Uni, Universität - Hochschule, n. in Fakultäten gegliederte, wissenschaftliche Bildungsstätte und Forschungseinrichtung; eine in Fakultäten gegliederte, höchste wissenschaftliche Bildungsstätte, Lehranstalt und Forschungseinrichtung, an der auf vielen verschiedenen (universellen) Wissenschaftsgebieten gelehrt und geforscht wird"},
+                        {"id": "s9426", "definition": "Universitätsgebäude - kurz, synonym, für: das Universitätsgebäude, das Hauptgebäude, Verwaltungsgebäude von einer in Fakultäten gegliederten, höchsten wissenschaftlichen Bildungsstätte"}
+                    ]
+},
+{"type": "virus", "synsets": [
+                        {"id": "s64010", "definition": "Computervirus, Computerwurm, Virus - Informatik: schädliche, nichtselbstständige Programmroutine"},
+                        {"id": "s50968", "definition": "Erreger, Krankheitserreger - Medizin: Organismus oder seltner ein Stoff , der eine Krankheit verursacht; Medizin: kleinster Krankheitserreger"}
+                    ]
+},
+{"type": "zeitung", "synsets": [
+                        {"id": "s10649", "definition": "Blatt, Gazette, Zeitung - regelmäßig täglich oder wöchentlich erscheinendes ungeheftetes Druckwerk"},
+                        {"id": "29644", "definition": "Zeitung (Institution) - wirtschaftliche Einrichtung"}
+                    ]
+},
+{"type":"kasse", "synsets": [
+                        {"id":"s74907", "definition": "Kasse - staatliche Institution, staatliche Einrichtung"},
+                        {"id":"s25445", "definition": "Krankenkasse - Träger der Krankenversicherung; die Versicherung, die die Kosten, die im Krankheitsfall entstehen, übernimmt"},
+                        {"id":"s22803", "definition": "Kassenschalter - Schalter zur Abwicklung von Zahlungsvorgängen"},
+                        {"id":"s6521",  "definition": "Kasse - ein abschließbarer Behälter zur Aufbewahrung von Geld (Geldscheine, Münzen)"},
+                        {"id":"s25245", "definition": "Geldinstitut für Finanzdienstleistungen; ein Institut"},
+                        {"id":"s74827", "definition": "vorhandene Geldmittel"}
+                    ]
+},
+{"type":"schnabel", "synsets": [
+                        {"id": "s25993", "definition": "Schnabel, Maul, Fresse - umgangssprachlich, abwertend: der menschliche Mund"},
+                        {"id": "s26449", "definition": "Schnabel - n. Zoologie: das Mundwerkzeug bestimmter Tiere"}
+                    ]
+},
+{"type":"kartenspiel", "synsets": [
+                        {"id": "s11135", "definition": "Kartenspiel - ein Gesellschaftsspiel, welches mit Karten gespielt wird"},
+                        {"id": "s25671", "definition": "Kartenspiel - n. Gesamtheit aller zu einem Spiel gehörigen Karten; die Karten, die man beim Kartenspiel auf, in der Hand hält"}
+                    ]
+},
+{"type":"gesichtsmaske", "synsets": [
+                        {"id":"s63142", "definition": "Gesichtsmaske, Larve"},
+                        {"id": "s63143", "definition": "Maske - zur Straffung der Haut auf das Gesicht aufgetragene Kosmetik"}
+                    ]
+}
+]
