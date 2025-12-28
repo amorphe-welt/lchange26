@@ -1,0 +1,15 @@
+{
+  "lexeme": "universit\u00e4t",
+  "synset": "s9426",
+  "consecutive_pvalue": 0.765,
+  "observed_magnitude": 5.266416795499452,
+  "n_permutations": 1000,
+  "alpha": 0.05,
+  "window_size": 1,
+  "excluded_timespans": [
+    "1995-2014",
+    "2006-2023"
+  ],
+  "n_samples": 97,
+  "n_timespans": 12
+}

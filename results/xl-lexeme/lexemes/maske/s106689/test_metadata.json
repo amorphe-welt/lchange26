@@ -1,0 +1,15 @@
+{
+  "lexeme": "maske",
+  "synset": "s106689",
+  "consecutive_pvalue": 0.607,
+  "observed_magnitude": 3.1482886299383157,
+  "n_permutations": 1000,
+  "alpha": 0.05,
+  "window_size": 1,
+  "excluded_timespans": [
+    "1995-2014",
+    "2006-2023"
+  ],
+  "n_samples": 206,
+  "n_timespans": 12
+}

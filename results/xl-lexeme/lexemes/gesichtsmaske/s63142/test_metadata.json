@@ -1,0 +1,15 @@
+{
+  "lexeme": "gesichtsmaske",
+  "synset": "s63142",
+  "consecutive_pvalue": 0.477,
+  "observed_magnitude": 7.810752765061432,
+  "n_permutations": 1000,
+  "alpha": 0.05,
+  "window_size": 1,
+  "excluded_timespans": [
+    "1995-2014",
+    "2006-2023"
+  ],
+  "n_samples": 77,
+  "n_timespans": 11
+}

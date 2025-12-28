@@ -1,0 +1,15 @@
+{
+  "lexeme": "richtung",
+  "synset": "s41895",
+  "consecutive_pvalue": 0.001,
+  "observed_magnitude": 4.628000255601293,
+  "n_permutations": 1000,
+  "alpha": 0.05,
+  "window_size": 1,
+  "excluded_timespans": [
+    "1995-2014",
+    "2006-2023"
+  ],
+  "n_samples": 302,
+  "n_timespans": 11
+}

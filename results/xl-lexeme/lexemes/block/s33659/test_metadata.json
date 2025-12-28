@@ -1,0 +1,15 @@
+{
+  "lexeme": "block",
+  "synset": "s33659",
+  "consecutive_pvalue": 1.0,
+  "observed_magnitude": 11.466667394875417,
+  "n_permutations": 1000,
+  "alpha": 0.05,
+  "window_size": 1,
+  "excluded_timespans": [
+    "1995-2014",
+    "2006-2023"
+  ],
+  "n_samples": 4,
+  "n_timespans": 3
+}

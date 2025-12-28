@@ -1,0 +1,15 @@
+{
+  "lexeme": "fu\u00df",
+  "synset": "s33599",
+  "consecutive_pvalue": 0.887,
+  "observed_magnitude": 8.057561308944143,
+  "n_permutations": 1000,
+  "alpha": 0.05,
+  "window_size": 1,
+  "excluded_timespans": [
+    "1995-2014",
+    "2006-2023"
+  ],
+  "n_samples": 16,
+  "n_timespans": 6
+}

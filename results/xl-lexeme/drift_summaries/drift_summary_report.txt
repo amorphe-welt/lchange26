@@ -1,0 +1,176 @@
+================================================================================
+DRIFT ANALYSIS SUMMARY REPORT
+================================================================================
+
+OVERALL STATISTICS
+--------------------------------------------------------------------------------
+Total lexemes analyzed: 26
+Total synsets analyzed: 82
+Synsets with any significant drift: 62
+Synsets with pairwise tests: 61
+Synsets with consecutive tests: 82
+
+TOP 20 SYNSETS BY SIGNIFICANCE
+--------------------------------------------------------------------------------
+
+bank / s25245
+  Significant pairs: 56
+  Drift events: 6
+  Max impact duration: 9
+  Min p-value: 0.000000
+  Max drift magnitude: 3.0767
+  Path: results/xl-lexeme/lexemes/bank/s25245
+
+klappe / s25993
+  Significant pairs: 44
+  Drift events: 6
+  Max impact duration: 9
+  Min p-value: 0.000000
+  Max drift magnitude: 4.3331
+  Path: results/xl-lexeme/lexemes/klappe/s25993
+
+fuß / s26149
+  Significant pairs: 31
+  Drift events: 25
+  Max impact duration: 10
+  Min p-value: 0.000000
+  Max drift magnitude: 5.0202
+  Path: results/xl-lexeme/lexemes/fuß/s26149
+
+tor / s10304
+  Significant pairs: 35
+  Drift events: 12
+  Max impact duration: 8
+  Min p-value: 0.000000
+  Max drift magnitude: 3.8386
+  Path: results/xl-lexeme/lexemes/tor/s10304
+
+universität / s24528
+  Significant pairs: 38
+  Drift events: 6
+  Max impact duration: 8
+  Min p-value: 0.000000
+  Max drift magnitude: 4.2566
+  Path: results/xl-lexeme/lexemes/universität/s24528
+
+diarium / s10919
+  Significant pairs: 35
+  Drift events: 5
+  Max impact duration: 7
+  Min p-value: 0.000000
+  Max drift magnitude: 5.3007
+  Path: results/xl-lexeme/lexemes/diarium/s10919
+
+klima / s41205
+  Significant pairs: 29
+  Drift events: 13
+  Max impact duration: 8
+  Min p-value: 0.000000
+  Max drift magnitude: 6.0798
+  Path: results/xl-lexeme/lexemes/klima/s41205
+
+virus / s50968
+  Significant pairs: 33
+  Drift events: 4
+  Max impact duration: 7
+  Min p-value: 0.000000
+  Max drift magnitude: 3.3212
+  Path: results/xl-lexeme/lexemes/virus/s50968
+
+pflaster / s47771
+  Significant pairs: 32
+  Drift events: 5
+  Max impact duration: 3
+  Min p-value: 0.000000
+  Max drift magnitude: 3.9067
+  Path: results/xl-lexeme/lexemes/pflaster/s47771
+
+pinsel / s8330
+  Significant pairs: 30
+  Drift events: 6
+  Max impact duration: 6
+  Min p-value: 0.000000
+  Max drift magnitude: 6.9891
+  Path: results/xl-lexeme/lexemes/pinsel/s8330
+
+zeitung / s29644
+  Significant pairs: 26
+  Drift events: 9
+  Max impact duration: 7
+  Min p-value: 0.000000
+  Max drift magnitude: 5.5527
+  Path: results/xl-lexeme/lexemes/zeitung/s29644
+
+zeitung / s10649
+  Significant pairs: 25
+  Drift events: 10
+  Max impact duration: 10
+  Min p-value: 0.000000
+  Max drift magnitude: 3.3447
+  Path: results/xl-lexeme/lexemes/zeitung/s10649
+
+richtung / s41895
+  Significant pairs: 25
+  Drift events: 7
+  Max impact duration: 10
+  Min p-value: 0.000000
+  Max drift magnitude: 6.0350
+  Path: results/xl-lexeme/lexemes/richtung/s41895
+
+pflaster / s7930
+  Significant pairs: 26
+  Drift events: 5
+  Max impact duration: 6
+  Min p-value: 0.000000
+  Max drift magnitude: 14.2500
+  Path: results/xl-lexeme/lexemes/pflaster/s7930
+
+klappe / s6029
+  Significant pairs: 26
+  Drift events: 3
+  Max impact duration: 10
+  Min p-value: 0.000000
+  Max drift magnitude: 6.2687
+  Path: results/xl-lexeme/lexemes/klappe/s6029
+
+flügel / s9697
+  Significant pairs: 23
+  Drift events: 8
+  Max impact duration: 5
+  Min p-value: 0.001000
+  Max drift magnitude: 12.3605
+  Path: results/xl-lexeme/lexemes/flügel/s9697
+
+kurs / s41895
+  Significant pairs: 22
+  Drift events: 9
+  Max impact duration: 5
+  Min p-value: 0.000000
+  Max drift magnitude: 7.4244
+  Path: results/xl-lexeme/lexemes/kurs/s41895
+
+flügel / s23151
+  Significant pairs: 17
+  Drift events: 17
+  Max impact duration: 11
+  Min p-value: 0.001000
+  Max drift magnitude: 6.4077
+  Path: results/xl-lexeme/lexemes/flügel/s23151
+
+atmosphäre / s42868
+  Significant pairs: 24
+  Drift events: 4
+  Max impact duration: 2
+  Min p-value: 0.000000
+  Max drift magnitude: 7.5919
+  Path: results/xl-lexeme/lexemes/atmosphäre/s42868
+
+kurs / s13438
+  Significant pairs: 20
+  Drift events: 8
+  Max impact duration: 6
+  Min p-value: 0.000000
+  Max drift magnitude: 7.2517
+  Path: results/xl-lexeme/lexemes/kurs/s13438
+
+================================================================================

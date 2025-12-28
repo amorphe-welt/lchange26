@@ -1,0 +1,15 @@
+{
+  "lexeme": "tor",
+  "synset": "s10313",
+  "consecutive_pvalue": 0.088,
+  "observed_magnitude": 9.329093900433078,
+  "n_permutations": 1000,
+  "alpha": 0.05,
+  "window_size": 1,
+  "excluded_timespans": [
+    "1995-2014",
+    "2006-2023"
+  ],
+  "n_samples": 27,
+  "n_timespans": 8
+}
