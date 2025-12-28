@@ -1,0 +1,15 @@
+{
+  "lexeme": "schimmel",
+  "synset": "s50922",
+  "consecutive_pvalue": 0.245,
+  "observed_magnitude": 6.2917756474053075,
+  "n_permutations": 1000,
+  "alpha": 0.05,
+  "window_size": 1,
+  "excluded_timespans": [
+    "1995-2014",
+    "2006-2023"
+  ],
+  "n_samples": 225,
+  "n_timespans": 12
+}

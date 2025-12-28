@@ -1,0 +1,15 @@
+{
+  "lexeme": "kartenspiel",
+  "synset": "s25671",
+  "consecutive_pvalue": 0.686,
+  "observed_magnitude": 14.21685552058941,
+  "n_permutations": 1000,
+  "alpha": 0.05,
+  "window_size": 1,
+  "excluded_timespans": [
+    "1995-2014",
+    "2006-2023"
+  ],
+  "n_samples": 48,
+  "n_timespans": 12
+}

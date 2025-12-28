@@ -1,0 +1,176 @@
+================================================================================
+DRIFT ANALYSIS SUMMARY REPORT
+================================================================================
+
+OVERALL STATISTICS
+--------------------------------------------------------------------------------
+Total lexemes analyzed: 26
+Total synsets analyzed: 82
+Synsets with any significant drift: 64
+Synsets with pairwise tests: 62
+Synsets with consecutive tests: 82
+
+TOP 20 SYNSETS BY SIGNIFICANCE
+--------------------------------------------------------------------------------
+
+bank / s25245
+  Significant pairs: 62
+  Drift events: 9
+  Max impact duration: 9
+  Min p-value: 0.000000
+  Max drift magnitude: 4.4963
+  Path: results/BGE-M3/lexemes/bank/s25245
+
+virus / s50968
+  Significant pairs: 59
+  Drift events: 7
+  Max impact duration: 11
+  Min p-value: 0.000000
+  Max drift magnitude: 5.9518
+  Path: results/BGE-M3/lexemes/virus/s50968
+
+universität / s24528
+  Significant pairs: 56
+  Drift events: 10
+  Max impact duration: 10
+  Min p-value: 0.000000
+  Max drift magnitude: 7.3687
+  Path: results/BGE-M3/lexemes/universität/s24528
+
+diarium / s10919
+  Significant pairs: 49
+  Drift events: 10
+  Max impact duration: 9
+  Min p-value: 0.000000
+  Max drift magnitude: 17.0482
+  Path: results/BGE-M3/lexemes/diarium/s10919
+
+klappe / s25993
+  Significant pairs: 49
+  Drift events: 8
+  Max impact duration: 9
+  Min p-value: 0.000000
+  Max drift magnitude: 6.1443
+  Path: results/BGE-M3/lexemes/klappe/s25993
+
+atmosphäre / s42868
+  Significant pairs: 49
+  Drift events: 7
+  Max impact duration: 4
+  Min p-value: 0.000000
+  Max drift magnitude: 10.5716
+  Path: results/BGE-M3/lexemes/atmosphäre/s42868
+
+tor / s10304
+  Significant pairs: 48
+  Drift events: 6
+  Max impact duration: 7
+  Min p-value: 0.000000
+  Max drift magnitude: 5.4251
+  Path: results/BGE-M3/lexemes/tor/s10304
+
+blatt / s10649
+  Significant pairs: 44
+  Drift events: 9
+  Max impact duration: 4
+  Min p-value: 0.000000
+  Max drift magnitude: 6.0333
+  Path: results/BGE-M3/lexemes/blatt/s10649
+
+zeitung / s29644
+  Significant pairs: 44
+  Drift events: 6
+  Max impact duration: 10
+  Min p-value: 0.000000
+  Max drift magnitude: 9.8348
+  Path: results/BGE-M3/lexemes/zeitung/s29644
+
+zeitung / s10649
+  Significant pairs: 39
+  Drift events: 14
+  Max impact duration: 10
+  Min p-value: 0.000000
+  Max drift magnitude: 6.6254
+  Path: results/BGE-M3/lexemes/zeitung/s10649
+
+klima / s41205
+  Significant pairs: 42
+  Drift events: 8
+  Max impact duration: 6
+  Min p-value: 0.000000
+  Max drift magnitude: 10.4040
+  Path: results/BGE-M3/lexemes/klima/s41205
+
+kasse / s25445
+  Significant pairs: 35
+  Drift events: 19
+  Max impact duration: 11
+  Min p-value: 0.000000
+  Max drift magnitude: 11.6888
+  Path: results/BGE-M3/lexemes/kasse/s25445
+
+kurs / s41895
+  Significant pairs: 36
+  Drift events: 13
+  Max impact duration: 7
+  Min p-value: 0.000000
+  Max drift magnitude: 10.5096
+  Path: results/BGE-M3/lexemes/kurs/s41895
+
+kasse / s74827
+  Significant pairs: 35
+  Drift events: 10
+  Max impact duration: 10
+  Min p-value: 0.000000
+  Max drift magnitude: 11.8283
+  Path: results/BGE-M3/lexemes/kasse/s74827
+
+richtung / s41895
+  Significant pairs: 35
+  Drift events: 7
+  Max impact duration: 10
+  Min p-value: 0.000000
+  Max drift magnitude: 9.8607
+  Path: results/BGE-M3/lexemes/richtung/s41895
+
+atmosphäre / s14251
+  Significant pairs: 33
+  Drift events: 11
+  Max impact duration: 7
+  Min p-value: 0.000000
+  Max drift magnitude: 8.2879
+  Path: results/BGE-M3/lexemes/atmosphäre/s14251
+
+pinsel / s8330
+  Significant pairs: 35
+  Drift events: 6
+  Max impact duration: 6
+  Min p-value: 0.000000
+  Max drift magnitude: 8.9170
+  Path: results/BGE-M3/lexemes/pinsel/s8330
+
+bank / s6399
+  Significant pairs: 34
+  Drift events: 7
+  Max impact duration: 7
+  Min p-value: 0.000000
+  Max drift magnitude: 13.8282
+  Path: results/BGE-M3/lexemes/bank/s6399
+
+schnabel / s25993
+  Significant pairs: 34
+  Drift events: 4
+  Max impact duration: 9
+  Min p-value: 0.000000
+  Max drift magnitude: 10.1090
+  Path: results/BGE-M3/lexemes/schnabel/s25993
+
+pflaster / s47771
+  Significant pairs: 34
+  Drift events: 5
+  Max impact duration: 3
+  Min p-value: 0.000000
+  Max drift magnitude: 5.1574
+  Path: results/BGE-M3/lexemes/pflaster/s47771
+
+================================================================================
