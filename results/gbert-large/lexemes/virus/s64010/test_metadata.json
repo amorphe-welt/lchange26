@@ -1,0 +1,15 @@
+{
+  "lexeme": "virus",
+  "synset": "s64010",
+  "consecutive_pvalue": 0.029,
+  "observed_magnitude": 16.320871924745855,
+  "n_permutations": 1000,
+  "alpha": 0.05,
+  "window_size": 1,
+  "excluded_timespans": [
+    "1995-2014",
+    "2006-2023"
+  ],
+  "n_samples": 140,
+  "n_timespans": 8
+}

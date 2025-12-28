@@ -1,0 +1,15 @@
+{
+  "lexeme": "pinsel",
+  "synset": "s37889",
+  "consecutive_pvalue": 0.02,
+  "observed_magnitude": 19.422449335356948,
+  "n_permutations": 1000,
+  "alpha": 0.05,
+  "window_size": 1,
+  "excluded_timespans": [
+    "1995-2014",
+    "2006-2023"
+  ],
+  "n_samples": 9,
+  "n_timespans": 6
+}
