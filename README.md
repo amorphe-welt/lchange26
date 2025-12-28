@@ -58,7 +58,7 @@ Command-line Python scripts that perform individual analysis stages, including:
 * Distributional divergence (Wasserstein, KL)
 * KDE and CDF estimation
 * Cross-model aggregation
-* Plot and table generation
+* Plot generation
 
 Scripts are modular and are orchestrated by the pipeline `.sh` files.
 
@@ -66,27 +66,16 @@ Scripts are modular and are orchestrated by the pipeline `.sh` files.
 
 ### `src/`
 
-Core Python libraries implementing:
-
-* Embedding alignment and normalization
-* Drift and divergence metrics
-* Statistical testing procedures
-* KDE-based density estimation
-* Visualization utilities
-
-All reusable logic is contained here.
+Python libraries
 
 ---
 
 ### `data/`
 
-Dataset metadata and configuration files:
+Dataset and metadata:
 
-* JSON lists of evaluated synsets
-* Lexeme–synset mappings
-* Time span definitions
-
-No raw corpora are included.
+* AmDi corpus
+* Lexeme–synset mappings file (synset definitions)
 
 ---
 
@@ -95,7 +84,7 @@ No raw corpora are included.
 Precomputed contextual embeddings for all evaluated models, stored as HDF5 (`.h5`) files.
 
 * One file per model
-* Indexed by lexeme, synset, and time span
+* Indexed by sample-id (AmDi dataset)
 * Model-specific dimensionality
 
 This enables full reproducibility without recomputing embeddings.
@@ -113,10 +102,7 @@ results/
 └── <model_name>/
     └── <lexeme>/
         └── <synset>/
-            ├── synset_drift.csv
-            ├── divergence.csv
-            ├── statistics.json
-            └── plots/
+            ├── ...
 ```
 
 Each synset directory contains:
