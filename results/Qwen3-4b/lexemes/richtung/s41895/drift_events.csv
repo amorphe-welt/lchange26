@@ -1,0 +1,2 @@
+event_id,transition_from,transition_to,drift_magnitude,p_value,impact_duration,affected_timespans,event_type
+0,1901-1910,1931-1940,27.238968210541877,0.037,3,"1911-1920,1921-1930,1931-1940",sudden_shift

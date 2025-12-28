@@ -1,0 +1,3 @@
+event_id,transition_from,transition_to,drift_magnitude,p_value,impact_duration,affected_timespans,event_type
+0,1971-1980,1981-1990,34.453939613788386,0.018,1,1981-1990,consecutive
+1,1981-1990,1991-2000,43.96681983579962,0.003,3,"1991-2000,2001-2010,2011-2018",consecutive

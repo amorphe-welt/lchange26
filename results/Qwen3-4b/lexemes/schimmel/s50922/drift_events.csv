@@ -1,0 +1,2 @@
+event_id,transition_from,transition_to,drift_magnitude,p_value,impact_duration,affected_timespans,event_type
+0,1981-1990,2011-2018,58.87866279358466,0.033,3,"1991-2000,2001-2010,2011-2018",sudden_shift

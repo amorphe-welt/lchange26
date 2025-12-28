@@ -1,0 +1,15 @@
+{
+  "lexeme": "zeitung",
+  "synset": "s29644",
+  "consecutive_pvalue": 0.006,
+  "observed_magnitude": 41.83834941796653,
+  "n_permutations": 1000,
+  "alpha": 0.05,
+  "window_size": 1,
+  "excluded_timespans": [
+    "1995-2014",
+    "2006-2023"
+  ],
+  "n_samples": 219,
+  "n_timespans": 12
+}
