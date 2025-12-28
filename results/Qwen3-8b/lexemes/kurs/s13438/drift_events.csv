@@ -1,0 +1,2 @@
+event_id,transition_from,transition_to,drift_magnitude,p_value,impact_duration,affected_timespans,event_type
+0,2001-2010,2011-2018,513.0863967235025,0.019,1,2011-2018,consecutive

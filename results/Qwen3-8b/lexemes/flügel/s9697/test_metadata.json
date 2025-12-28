@@ -1,0 +1,15 @@
+{
+  "lexeme": "fl\u00fcgel",
+  "synset": "s9697",
+  "consecutive_pvalue": 0.643,
+  "observed_magnitude": 316.44702281180395,
+  "n_permutations": 1000,
+  "alpha": 0.05,
+  "window_size": 1,
+  "excluded_timespans": [
+    "1995-2014",
+    "2006-2023"
+  ],
+  "n_samples": 175,
+  "n_timespans": 12
+}

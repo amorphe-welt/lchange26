@@ -1,0 +1,15 @@
+{
+  "lexeme": "kasse",
+  "synset": "s74907",
+  "consecutive_pvalue": 0.169,
+  "observed_magnitude": 313.0852546660293,
+  "n_permutations": 1000,
+  "alpha": 0.05,
+  "window_size": 1,
+  "excluded_timespans": [
+    "1995-2014",
+    "2006-2023"
+  ],
+  "n_samples": 119,
+  "n_timespans": 11
+}

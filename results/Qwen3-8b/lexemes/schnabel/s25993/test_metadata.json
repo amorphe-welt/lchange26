@@ -1,0 +1,15 @@
+{
+  "lexeme": "schnabel",
+  "synset": "s25993",
+  "consecutive_pvalue": 0.06,
+  "observed_magnitude": 546.534031958997,
+  "n_permutations": 1000,
+  "alpha": 0.05,
+  "window_size": 1,
+  "excluded_timespans": [
+    "1995-2014",
+    "2006-2023"
+  ],
+  "n_samples": 308,
+  "n_timespans": 11
+}

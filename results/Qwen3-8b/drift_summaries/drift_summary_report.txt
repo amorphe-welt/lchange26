@@ -1,0 +1,176 @@
+================================================================================
+DRIFT ANALYSIS SUMMARY REPORT
+================================================================================
+
+OVERALL STATISTICS
+--------------------------------------------------------------------------------
+Total lexemes analyzed: 26
+Total synsets analyzed: 82
+Synsets with any significant drift: 57
+Synsets with pairwise tests: 57
+Synsets with consecutive tests: 82
+
+TOP 20 SYNSETS BY SIGNIFICANCE
+--------------------------------------------------------------------------------
+
+atmosphäre / s42868
+  Significant pairs: 20
+  Drift events: 6
+  Max impact duration: 4
+  Min p-value: 0.002000
+  Max drift magnitude: 385.1918
+  Path: results/Qwen3-8b/lexemes/atmosphäre/s42868
+
+diarium / s10919
+  Significant pairs: 18
+  Drift events: 3
+  Max impact duration: 3
+  Min p-value: 0.000000
+  Max drift magnitude: 321.3401
+  Path: results/Qwen3-8b/lexemes/diarium/s10919
+
+zeitung / s29644
+  Significant pairs: 16
+  Drift events: 4
+  Max impact duration: 2
+  Min p-value: 0.000000
+  Max drift magnitude: 324.8314
+  Path: results/Qwen3-8b/lexemes/zeitung/s29644
+
+klappe / s25993
+  Significant pairs: 15
+  Drift events: 4
+  Max impact duration: 1
+  Min p-value: 0.000000
+  Max drift magnitude: 340.4658
+  Path: results/Qwen3-8b/lexemes/klappe/s25993
+
+blatt / s10649
+  Significant pairs: 15
+  Drift events: 2
+  Max impact duration: 4
+  Min p-value: 0.000000
+  Max drift magnitude: 269.9964
+  Path: results/Qwen3-8b/lexemes/blatt/s10649
+
+bank / s6399
+  Significant pairs: 12
+  Drift events: 7
+  Max impact duration: 6
+  Min p-value: 0.000000
+  Max drift magnitude: 595.4207
+  Path: results/Qwen3-8b/lexemes/bank/s6399
+
+atmosphäre / s42158
+  Significant pairs: 11
+  Drift events: 6
+  Max impact duration: 5
+  Min p-value: 0.000000
+  Max drift magnitude: 811.7158
+  Path: results/Qwen3-8b/lexemes/atmosphäre/s42158
+
+tor / s10304
+  Significant pairs: 12
+  Drift events: 3
+  Max impact duration: 3
+  Min p-value: 0.009000
+  Max drift magnitude: 175.0612
+  Path: results/Qwen3-8b/lexemes/tor/s10304
+
+block / s107180
+  Significant pairs: 7
+  Drift events: 7
+  Max impact duration: 10
+  Min p-value: 0.004000
+  Max drift magnitude: 452.0180
+  Path: results/Qwen3-8b/lexemes/block/s107180
+
+blatt / s46736
+  Significant pairs: 9
+  Drift events: 4
+  Max impact duration: 3
+  Min p-value: 0.005000
+  Max drift magnitude: 1129.0292
+  Path: results/Qwen3-8b/lexemes/blatt/s46736
+
+fuß / s26149
+  Significant pairs: 10
+  Drift events: 2
+  Max impact duration: 1
+  Min p-value: 0.001000
+  Max drift magnitude: 231.6770
+  Path: results/Qwen3-8b/lexemes/fuß/s26149
+
+kurs / s30016
+  Significant pairs: 7
+  Drift events: 6
+  Max impact duration: 8
+  Min p-value: 0.009000
+  Max drift magnitude: 500.0576
+  Path: results/Qwen3-8b/lexemes/kurs/s30016
+
+flügel / s26446
+  Significant pairs: 8
+  Drift events: 3
+  Max impact duration: 3
+  Min p-value: 0.010000
+  Max drift magnitude: 563.1322
+  Path: results/Qwen3-8b/lexemes/flügel/s26446
+
+bank / s25245
+  Significant pairs: 8
+  Drift events: 3
+  Max impact duration: 3
+  Min p-value: 0.008000
+  Max drift magnitude: 233.4498
+  Path: results/Qwen3-8b/lexemes/bank/s25245
+
+flügel / s23151
+  Significant pairs: 6
+  Drift events: 6
+  Max impact duration: 8
+  Min p-value: 0.009000
+  Max drift magnitude: 349.9310
+  Path: results/Qwen3-8b/lexemes/flügel/s23151
+
+schnabel / s25993
+  Significant pairs: 8
+  Drift events: 3
+  Max impact duration: 3
+  Min p-value: 0.004000
+  Max drift magnitude: 1342.4236
+  Path: results/Qwen3-8b/lexemes/schnabel/s25993
+
+pflaster / s47771
+  Significant pairs: 7
+  Drift events: 4
+  Max impact duration: 7
+  Min p-value: 0.001000
+  Max drift magnitude: 205.1465
+  Path: results/Qwen3-8b/lexemes/pflaster/s47771
+
+decke / s10206
+  Significant pairs: 8
+  Drift events: 3
+  Max impact duration: 2
+  Min p-value: 0.001000
+  Max drift magnitude: 721.9845
+  Path: results/Qwen3-8b/lexemes/decke/s10206
+
+kurs / s13438
+  Significant pairs: 9
+  Drift events: 1
+  Max impact duration: 1
+  Min p-value: 0.000000
+  Max drift magnitude: 575.8883
+  Path: results/Qwen3-8b/lexemes/kurs/s13438
+
+klima / s41205
+  Significant pairs: 6
+  Drift events: 5
+  Max impact duration: 9
+  Min p-value: 0.022000
+  Max drift magnitude: 402.2394
+  Path: results/Qwen3-8b/lexemes/klima/s41205
+
+================================================================================

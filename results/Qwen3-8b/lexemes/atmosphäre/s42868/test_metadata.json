@@ -1,0 +1,15 @@
+{
+  "lexeme": "atmosph\u00e4re",
+  "synset": "s42868",
+  "consecutive_pvalue": 0.016,
+  "observed_magnitude": 219.57405723340074,
+  "n_permutations": 1000,
+  "alpha": 0.05,
+  "window_size": 1,
+  "excluded_timespans": [
+    "1995-2014",
+    "2006-2023"
+  ],
+  "n_samples": 349,
+  "n_timespans": 12
+}
